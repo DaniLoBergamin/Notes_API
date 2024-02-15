@@ -1,0 +1,11 @@
+Modules:
+
+NodeJS - API Creation.
+Nodemon - auto reload server.
+Mongoose - database connection.
+Bcrypt - Converting the password to Hash.
+
+Jsonwebtoken - Generate an authentication token.
+Dotenv - Allows you to put .env files and then get files by calling the process env .jwt token
+
+Cross-Origin Resource Sharing (CORS) - Allow the API to be accessed by other sites through the browser.
